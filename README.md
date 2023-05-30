@@ -26,7 +26,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-![Design preview for the Git User Search App coding challenge](https://github.com/brycezubi/time-tracking-dahsboard/blob/main/public/design/desktop-preview.jpg)
+![Design preview for the Git User Search App coding challenge](https://github.com/brycezubi/git-user-search-app/blob/main/public/Desktop_solution.png)
 
 ### Links
 
