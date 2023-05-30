@@ -26,9 +26,9 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-![Design preview for the Git User Search App coding challenge](https://brycezubi.github.io/git-user-search-app/)
+![Design preview for the Git User Search App coding challenge](https://github.com/brycezubi/git-user-search-app/blob/main/public/Desktop_solution.png)
 
 ### Links
 
-- Solution URL: [Git User Search App Solution](https://www.frontendmentor.io/solutions/time-tracking-dashboard-EtdC4LEWJX)
+- Solution URL: [Git User Search App Solution](https://github.com/brycezubi/git-user-search-app/blob/main/public/Desktop_solution.png)
 - Live Site URL: [Git User Search App dashboard](https://brycezubi.github.io/git-user-search-app/)
